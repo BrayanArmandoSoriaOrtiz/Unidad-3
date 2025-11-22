@@ -1,0 +1,5 @@
+1|Pantalon Baggy|750|Ropa Casual
+2|Tenis Verdes|6000|Ropa Deportiva
+3|Sudadera Adidas|300|Ropa Casual
+4|Tenis de basketball|8000|Ropa Deportiva
+5|Pantalon de mezclilla|500|Ropa Casual
