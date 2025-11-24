@@ -1,0 +1,5 @@
+Pantalon de mezclilla|500.0|3|1500.0
+Tenis de basketball|8000.0|2|16000.0
+Sudadera Adidas|300.0|4|1200.0
+Tenis Verdes|6000.0|3|18000.0
+Pantalon Baggy|750.0|1|750.0
